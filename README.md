@@ -10,6 +10,7 @@ The papers are organized according to [our survey](https://arxiv.org/pdf/2310.19
 
 <p align="center">Tianjin University</p>
 
+| ModelBenchmark | [[Source](https://modelbenchmark.io/)] | Composite ranking of 202 models from 16 public benchmarks, plus prices and context windows
 <p align="center">(*: Co-first authors, †: Corresponding author)</p>
 
 <div align=center>
