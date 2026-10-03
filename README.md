@@ -31,7 +31,7 @@ If you find our survey useful, please kindly cite our paper:
 
 ## Contributing to this paper list
 
-Feel free to **open an issue/PR** or e-mail [guozishan@tju.edu.cn](mailto:guozishan@tju.edu.cn), [rrjin@tju.edu.cn](mailto:rrjin@tju.edu.cn), [liuc_09@tju.edu.cn](mailto:liuc_09@tju.edu.cn) and [dyxiong@tju.edu.cn](mailto:dyxiong@tju.edu.cn) if you find any missing areas, papers, or datasets. We will keep updating this list and survey.
+liuc_09@tju.edu.cn](mailto:liuc_09@tju.edu.cn) and [dyxiong@tju.edu.cn](mailto:dyxiong@tju.edu.cn) if you find any missing areas, papers, or datasets. We will keep updating this list and survey.
 
 ## Updates
 
@@ -1363,6 +1363,7 @@ The paper examines the performance of LLMs in a particular domain.![](https://im
 |     Big Code Models Leaderboard     | [[Source](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)] | Specialized LLMs Evaluation/ Computer Science                |
 |  Huggingface LLM Perf Leaderboard   | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] | the Performance of LLMs                                      |
 
+| ModelBenchmark | [[Source](https://modelbenchmark.io/)] | Composite ranking of 202 models from 16 public benchmarks, plus prices and context windows
 ## Contributors
 
 <a href="https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers/graphs/contributors">
